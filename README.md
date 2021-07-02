@@ -31,6 +31,8 @@ insert 5_Bottom_Shoolds_Adjusted.PNG
 - ### How does replacing the ninth-grade scores affect the following:
 
   - #### Math and reading scores by grade
+  
+  Not sure, could say that 9th grade scores for THS for both reading and math were replaces by NaN and not including in the schools overall calculation to ensure if any scores were tampered with they would be excluded
 
   - #### Scores by school spending
 
