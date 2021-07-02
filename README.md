@@ -31,9 +31,9 @@ Top Schools Before Adjustment:<br />
 <br />
 
 Bottom Schools After Adjustment:<br />
-![5_Bottom_Shoolds_Adjusted.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/5_Bottom_Shoolds_Adjusted.PNG)
+![5_Bottom_Shoolds_Adjusted.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/5_Bottom_Shools_Adjusted.PNG)
 Bottom Schools Before Adjustment:<br />
-![5_Bottom_Shoolds_Original.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/5_Bottom_Shoolds_Original.PNG)
+![5_Bottom_Shoolds_Original.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/5_Bottom_Shools_Original.PNG)
 
 
 - ### How does replacing the ninth-grade scores affect the following:
@@ -44,21 +44,27 @@ Bottom Schools Before Adjustment:<br />
 
   - #### Scores by school spending
   
-  Has no affect on the results
-  ![8_Scores_By_School_Spending_Adjusted.PNG](TargetUrl)
-  ![8_Scores_By_School_Spending_Original.PNG](TargetUrl)
+  Has no affect on the results<br /><br />
+  After Adjustment:<br />
+  ![8_Scores_By_School_Spending_Adjusted.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/8_Scores_By_School_Spending_Adjusted.PNG)
+  Before Adjustment:<br />
+  ![8_Scores_By_School_Spending_Original.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/8_Scores_By_School_Spending_Original.PNG)
 
   - #### Scores by school size
 
-  Has no affect on the results
-  ![9_Scores_By_School_Size_Adjusted.PNG](TargetUrl)
-  ![9_Scores_By_School_Size_Original.PNG](TargetUrl)
+  Has no affect on the results<br /><br />
+  After Adjustment:<br />
+  ![9_Scores_By_School_Size_Adjusted.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/9_Scores_By_School_Size_Adjusted.PNG)
+  Before Adjustment:<br />
+  ![9_Scores_By_School_Size_Original.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/9_Scores_By_School_Size_Original.PNG)
 
   - #### Scores by school type
 
-  Has no affect on the results
-  ![10_Scores_By_School_Type_Adjusted.PNG](TargetUrl)
-  ![10_Scores_By_School_Type_Original.PNG](TargetUrl)
+  Has no affect on the results<br /><br />
+  After Adjustment:<br />
+  ![10_Scores_By_School_Type_Adjusted.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/10_Scores_By_School_Type_Adjusted.PNG)
+  Before Adjustment:<br />
+  ![10_Scores_By_School_Type_Original.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/10_Scores_By_School_Type_Original.PNG)
 
 
 ## Summary:
