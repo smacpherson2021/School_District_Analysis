@@ -35,10 +35,22 @@ insert 5_Bottom_Shoolds_Adjusted.PNG
   Not sure, could say that 9th grade scores for THS for both reading and math were replaces by NaN and not including in the schools overall calculation to ensure if any scores were tampered with they would be excluded
 
   - #### Scores by school spending
+  
+  Has no affect on the results
+  insert 8_Scores_By_School_Spending_Adjusted.PNG
+  insert 8_Scores_By_School_Spending_Original.PNG
 
   - #### Scores by school size
 
+  Has no affect on the results
+  insert 9_Scores_By_School_Size_Adjusted.PNG
+  insert 9_Scores_By_School_Size_Original.PNG
+
   - #### Scores by school type
+
+  Has no affect on the results
+  insert 10_Scores_By_School_Type_Adjusted.PNG
+  insert 10_Scores_By_School_Type_Original.PNG
 
 
 ## Summary:
