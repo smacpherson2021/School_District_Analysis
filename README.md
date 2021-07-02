@@ -7,27 +7,34 @@ The school board has notified that the students_complete.csv file shows evidence
 - ### How is the district summary affected?
 
 Removing the grade 9 scores for THS has the effect of slightly reducing all the score and % numbers overall.<br /><br />
-After Adjustment:
+After Adjustment:<br />
 ![1_District_Summary_Adjusted.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/1_District_Summary_Adjusted.PNG)
-Before Adjustment:
+Before Adjustment:<br />
 ![1_District_Summary_Original.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/1_District_Summary_Original.PNG)
  
 - ### How is the school summary affected?
 
 Only the results for the Thomas High School were slightly reduced for Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, $ Overall Passing<br /><br />
-After Adjustment:
+After Adjustment:<br />
 ![2_Per_School_Summary_REPLACED.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/2_Per_School_Summary_REPLACED.PNG)
-Before Adjustment:
+Before Adjustment:<br />
 ![2_Per_School_Summary_Original.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/2_Per_School_Summary_Original.PNG)
 
 - ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-No it doesn't
-![4_Top_Schools_Original.PNG](TargetUrl)
-![4_Top_Schools_Adjusted.PNG](TargetUrl)
+Performance Rankings for both Top and Bottom schools are unaffected by replacing the 9th graders' math and reading scores<br /><br />
+Top Schools After Adjustment:<br />
+![4_Top_Schools_Adjusted.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/4_Top_Schools_Adjusted.PNG)
+Top Schools Before Adjustment:<br />
+![4_Top_Schools_Original.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/4_Top_Schools_Original.PNG)
 
-![5_Bottom_Shoolds_Original.PNG](TargetUrl)
-![5_Bottom_Shoolds_Adjusted.PNG](TargetUrl)
+<br />
+
+Bottom Schools After Adjustment:<br />
+![5_Bottom_Shoolds_Adjusted.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/5_Bottom_Shoolds_Adjusted.PNG)
+Bottom Schools Before Adjustment:<br />
+![5_Bottom_Shoolds_Original.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/5_Bottom_Shoolds_Original.PNG)
+
 
 - ### How does replacing the ninth-grade scores affect the following:
 
