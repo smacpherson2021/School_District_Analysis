@@ -69,24 +69,24 @@ Bottom Schools Before Adjustment:<br />
 
 ## Summary:
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-After reading and math scores for the ninth grade at Thomas High School were replaced with NaNs
+After reading and math scores for the ninth grade at Thomas High School were replaced with NaNs overall there was only a small impact to the district and school summaries. 
 
 The district summary changed as follows:
-Field   Original  Adjusted
-Average Math Score
-Average Reading Score
-% Passing Math
-% Passing Reading
-$ Overall Passing
+|Field|Original|Adjusted|
+|-----|--------|--------|
+|Average Math Score|79.0|78.9|
+|Average Reading Score|81.9|81.9|
+|% Passing Math|75.0|74.8|
+|% Passing Reading|85.8|85.7|
+|$ Overall Passing|65.2|64.9|
 
 The School Summary changed only for Thomas High School as follows:
-Field   Original  Adjusted
-Average Math Score
-Average Reading Score
-% Passing Math
-% Passing Reading
-$ Overall Passing
+|Field|Original|Adjusted|
+|-----|--------|--------|
+|Average Math Score|84.418349|83.350937|
+|Average Reading Score|83.848930|83.896082|
+|% Passing Math|93.272171|93.185690|
+|% Passing Reading|97.308869|97.018739|
+|$ Overall Passing|90.948012|90.630324|
 
 
