@@ -5,11 +5,28 @@ The school board has notified that the students_complete.csv file shows evidence
 
 ## Results:
 Using bulleted lists and images of DataFrames as support, address the following questions.
+
 - ### How is the district summary affected?
+
+Removing the grade 9 scores for THS has the effect of slightly reducing all the score and % numbers overall.
+insert 1_District_Summary_Adjusted.PNG
+insert 1_District_Summary_Original.PNG
 
 - ### How is the school summary affected?
 
+Only the results for the Thomas High School are slightly affected
+insert 2_Per_School_Summary_REPLACED.PNG
+insert 2_Per_School_Summary_Original.PNG
+
 - ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+No it doesn't
+insert 4_Top_Schools_Original.PNG
+insert 4_Top_Schools_Adjusted.PNG
+
+insert 5_Bottom_Shoolds_Original.PNG
+insert 5_Bottom_Shoolds_Adjusted.PNG
+
 
 - ### How does replacing the ninth-grade scores affect the following:
 
