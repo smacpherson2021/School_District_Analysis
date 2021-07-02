@@ -40,7 +40,11 @@ Bottom Schools Before Adjustment:<br />
 
   - #### Math and reading scores by grade
   
-  Not sure, could say that 9th grade scores for THS for both reading and math were replaces by NaN and not including in the schools overall calculation to ensure if any scores were tampered with they would be excluded
+  Resulted in NaN values for 9th grade average math and average reading scores for only the Thomas High School. <br /><br />
+  Math scores by grade:<br />
+  ![6_Math_Scores_By_Grade_Adjusted.PNG](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/6_Math_Scores_By_Grade_Adjusted.PNG)
+  Reading scores by grade:<br />
+  ![7_Reading_Scores_By_Grade_Adjusted](https://github.com/smacpherson2021/School_District_Analysis/blob/main/Resources/pics/7_Reading_Scores_By_Grade_Adjusted.PNG)
 
   - #### Scores by school spending
   
